@@ -1,0 +1,8 @@
+Phase,Metric,Value,Unit
+Phase 2,Run 1 (Cold),2.495,seconds
+Phase 2,Run 2 (Warm),2.511,seconds
+Phase 2,Run 3 (Warm),2.427,seconds
+Phase 2,T_seq (Average Run 2 and 3),2.469,seconds
+Phase 4,Variant 1 (Naive - False Sharing),0.386,seconds
+Phase 4,Variant 2 (OpenMP Reduction),0.248,seconds
+Phase 4,Speedup Penalty Ratio (V1/V2),1.56,x
